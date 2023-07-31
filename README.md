@@ -8,3 +8,5 @@ SVM
 Logistic Regression
 metrics
 train_test_split We are making accuracy and prediction in Iris project through Iris Dataset. This is easy and understable for machine learning staters( Naive ).
+
+if you find it useful please drop a star.
